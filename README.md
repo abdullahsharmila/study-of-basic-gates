@@ -1,4 +1,5 @@
 ### study-of-basic-gates
+## EX NO:1
 
 **AIM:** 
 
